@@ -14,6 +14,7 @@ body {
     grid-column: auto;
     margin-left: 0;
 
+
 }
 
 h3 {
@@ -39,7 +40,30 @@ footer {
 
 }
 
+.navbar {
+    display: flex;
+    justify-content: center;
+    /* Center the content horizontally */
+}
 
+.navbar ul {
+    list-style-type: none;
+    /* Remove default list styles */
+    display: flex;
+    /* Display the list items horizontally */
+    padding: 0;
+}
+
+.navbar li {
+    margin: 20px;
+
+    /* Add some spacing between list items horizontally */
+}
+
+.header p {
+    text-align: left;
+    margin-left: 250px;
+}
 
 #about-me {
     width: 45%;

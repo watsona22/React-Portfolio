@@ -1,5 +1,6 @@
 export default function Resume() {
     return (
+
         <div>
             <h3>Resume</h3>
             <p>
@@ -23,7 +24,7 @@ export default function Resume() {
                     <div>Greater Sierra Vista-Douglas Area · On-site</div >
                     <div>Led Douglas Branch Operations by directing all aspects of operations at the Douglas branch, overseeing instruction, outreach, and circulation.</div >
                     <div>Supervised Staff and Supported Front-Facing Duties by managing a dynamic team, providing guidance and support for front-facing tasks as necessary.</div >
-                    <div>Expertly Curated Collections by carefully curating the library's collection, meticulously cataloging new items according to Library of Congress classification standards.</div >
+                    <div>Expertly Curated Collections by carefully curating the library collection, meticulously cataloging new items according to Library of Congress classification standards.</div >
                     <div>Delivered Comprehensive Reference Services offering expert reference assistance through diverse channels including phone, email, chat, and in-person interactions.</div >
                     <div>Maximized Library Engagement by amplifying awareness of library resources and services by leveraging social media platforms, strategically promoting community engagement and fostering connections with patrons.</div >
 
@@ -64,7 +65,7 @@ export default function Resume() {
                     <div>This course will introduce students to the international scholarly e-publishing industry,</div >
                     <div>including journals and books publishing, and the relationship of libraries to e-scholarship.</div >
                     <div>The centerpiece of the course will be a two-week intensive London experience. Planned</div >
-                    <div>in conjunction with King’s College London (KCL), the CIBER research group, and Pratt</div >
+                    <div>in conjunction with King College London (KCL), the CIBER research group, and Pratt</div >
                     <div>(NY) School of Information and Library Science, this course will allow students to</div >
                     <div>benefit from lectures by publishing experts, visits to scholarly organizations, and</div >
                     <div>attendance at The Strand Symposium on Digital Scholarship and ePublishing.</div >
@@ -72,7 +73,7 @@ export default function Resume() {
 
                     <center><div>PUBLICATIONS & PRESENTATIONS</div ></center>
                     <div>A Person-Centered Approach to Library Instruction. (May 30, 2023). National Institute for Staff and Organizational Development (NISOD) 2023 Annual Conference:</div >
-                    <div>This session discusses the challenges associated with instruction in a post-COVID era and in the context of libraries. The profession has coined a phrase that describes it perfectly: Library anxiety. With the insight of an educator operating at the intersection of service, we reason through scenarios to help participants meet uncertainty head-on. This "person centered" approach explores simple methods to compassionate and responsive care in the classroom.</div >
+                    <div>This session discusses the challenges associated with instruction in a post-COVID era and in the context of libraries. The profession has coined a phrase that describes it perfectly: Library anxiety. With the insight of an educator operating at the intersection of service, we reason through scenarios to help participants meet uncertainty head-on. This approach explores simple methods to compassionate and responsive care in the classroom.</div >
 
                     <div>Volentine, R., Owens, A., Tenopir, C., & Frame, M. (2017). Usability Testing to Improve Research Data Services. Qualitative & Quantitative Methods in Libraries, 4(1), 59-68.</div >
 

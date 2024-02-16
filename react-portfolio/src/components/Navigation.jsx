@@ -14,34 +14,37 @@ function NavTabs() {
     // const currentPage = useLocation().pathname;
 
     return (
-        <ul className="nav nav-tabs">
+        <ul className="body nav navbar">
             <Link
+
                 to="/About"
                 // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
                 className={currentPage === '/About' ? 'nav-link active' : 'nav-link'}
             >
-                About
+                <li>About</li>
             </Link>
             <Link
                 to="/Portfolio"
                 // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
                 className={currentPage === '/Portfolio' ? 'nav-link active' : 'nav-link'}
             >
-                Portfolio
+                <li>Portfolio</li>
             </Link>
             <Link
                 to="/Contact"
                 // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
                 className={currentPage === '/Contact' ? 'nav-link active' : 'nav-link'}
             >
-                Contact
+                <li>Contact</li>
+
             </Link>
             <Link
                 to="/Resume"
                 // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
                 className={currentPage === '/Resume' ? 'nav-link active' : 'nav-link'}
             >
-                Resume
+                <li>Resume</li>
+
             </Link>
         </ul>
     );

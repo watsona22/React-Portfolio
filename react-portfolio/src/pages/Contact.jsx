@@ -28,8 +28,9 @@ class App extends React.Component {
         this.setState({ name: '', email: '', message: '' })
     }
     render() {
+
         return (
-            <div className="App">
+            <div className="App header">
                 <form id="contact-form" onSubmit={this.handleSubmit.bind(this)} method="POST">
                     <div className="form-group">
                         <label htmlFor="name">Name</label>
