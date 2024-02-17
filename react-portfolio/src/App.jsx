@@ -5,7 +5,7 @@ import Navigation from '../src/components/Navigation';
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Project from "./components/Project";
-
+import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
     // The Outlet component will conditionally swap between the different pages according to the URL

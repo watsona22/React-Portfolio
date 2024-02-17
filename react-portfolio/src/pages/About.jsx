@@ -6,9 +6,11 @@ export default function About() {
         <header className="header">
 
             <div>
-                <h3>About</h3>
+                {/* <h3>About</h3> */}
                 <p>
-                    <img src={profilepic_1} alt="About-Me" />
+                    <div className="picture">
+                        <img src={profilepic_1} alt="About-Me" />
+                    </div>
                     <div className="wrap">
                         <div>Hello and welcome! Thanks for stopping by to check out my portfolio.</div>
                         <div>My name is Amber Watson, recent graduate of the edX Full Stack Web Development Bootcamp at the University of Texas in Austin.</div>

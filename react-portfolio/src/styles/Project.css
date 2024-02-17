@@ -46,11 +46,17 @@ header nav {
 
 .wrap {
     float: left;
-    margin-left: 300px;
+    margin-left: 200px;
     position: relative;
     top: -200px;
 }
 
+.form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    margin-left: 350px;
+}
 
 header,
 footer {
@@ -74,7 +80,7 @@ footer {
 }
 
 .navbar li {
-    margin: 20px;
+    margin: 0px;
 
     /* Add some spacing between list items horizontally */
 }
@@ -84,9 +90,11 @@ footer {
     margin-left: 250px;
 }
 
-.style {
-    position: fixed;
-    align-items: baseline;
+.connection {
+    display: flex;
+    width: 100%;
+    position: relative;
+
 }
 
 #about-me {
@@ -100,6 +108,10 @@ footer {
 main {
     flex-wrap: wrap;
 
+}
+
+.body nav navbar {
+    font-weight: bold;
 }
 
 .nav {
@@ -189,6 +201,12 @@ h2.style {
     position: absolute;
     display: block;
     right: 50px;
+}
+
+.picture {
+    justify-content: left;
+    position: relative;
+    left: -150px;
 }
 
 .professional {
@@ -326,6 +344,7 @@ footer div ul li {
     text-decoration-thickness: 3px;
 
 }
+
 
 /*media properties insured responsive design at varying sizes*/
 

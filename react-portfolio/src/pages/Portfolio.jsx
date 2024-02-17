@@ -12,7 +12,7 @@ export default function Portfolio() {
         <header className="header">
 
             <div>
-                <h3>Portfolio</h3>
+                {/* <h3>Portfolio</h3> */}
                 <section className="nav">
                     <section id="about-me"></section>
                 </section>
