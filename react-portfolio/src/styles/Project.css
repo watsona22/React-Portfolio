@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    background-color: teal
 }
 
 :root {
@@ -27,11 +28,29 @@ h3 {
 
 }
 
+h2 {
+    position: relative;
+    top: 50px;
+}
+
 header nav {
     float: right;
     font-size: 20px;
 
 }
+
+.App-header {
+    display: flex;
+    justify-content: center;
+}
+
+.wrap {
+    float: left;
+    margin-left: 300px;
+    position: relative;
+    top: -200px;
+}
+
 
 header,
 footer {
@@ -63,6 +82,11 @@ footer {
 .header p {
     text-align: left;
     margin-left: 250px;
+}
+
+.style {
+    position: fixed;
+    align-items: baseline;
 }
 
 #about-me {

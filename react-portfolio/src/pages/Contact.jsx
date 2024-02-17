@@ -30,7 +30,7 @@ class App extends React.Component {
     render() {
 
         return (
-            <div className="App header">
+            <div className="App-header">
                 <form id="contact-form" onSubmit={this.handleSubmit.bind(this)} method="POST">
                     <div className="form-group">
                         <label htmlFor="name">Name</label>
