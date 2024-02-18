@@ -41,7 +41,7 @@ class App extends React.Component {
                         <input type="email" className="form-control" id="email" aria-describedby="emailHelp" value={this.state.email} onChange={this.onEmailEdit.bind(this)} />
                     </div>
                     <div className="form-group">
-                        <label htmlFor="message">Words</label>
+                        <label htmlFor="message">Comments</label>
                         <textarea className="form-control" rows="5" id="message" value={this.state.message} onChange={this.onMessageEdit.bind(this)} />
                     </div>
                     <button type="submit" className="btn btn-primary">Submit</button>
