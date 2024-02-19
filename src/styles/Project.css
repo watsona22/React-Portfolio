@@ -140,6 +140,22 @@ main {
 
 }
 
+.my-icon a svg {
+    color: black;
+    position: relative;
+    left: 600px;
+    /* Display the list items horizontally */
+    font-size: 36px;
+}
+
+/* .my-icon {
+    display: flex;
+    /* Use flexbox */
+
+.my-icon a {
+    margin-right: 30 px;
+}
+
 a {
     color: black;
 }
