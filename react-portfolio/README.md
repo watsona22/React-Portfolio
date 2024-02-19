@@ -1,5 +1,5 @@
 # react-portfolio
-The purpose of this project was to build API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Social Network API utilizes Express.js routing, MongoDB database, and Mongo ODM to get, update, and delete documents. The dynamic components of our website are supported by JavaScript.
+The purpose of this project was to create a single-page application using React to demonstrate development skills and share my portfolio with customers. The React Portfolio utilizes vite to build the application and the dynamic components of the website are supported by JavaScript.
 
 ## Acceptance Criteria
 
@@ -30,12 +30,11 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
-This challenge utilized the node environment to create a dynamic Javascript application using relevant libraries. The result was a functioning PWA application with persistent data. I first encountered issues when trying to add database logic. The second complication occurred while setting up the webpack, so as to include instruction for rendering the app. Even though I included a path to the service worker file, I continued to receive messages that it could not connect. There were also issues pointing to the right image files in the HTML file. I am still unable to display the header file as in the mockup (see index file for detail - commented text) or the favicon - the other features appear to work. There were some messages in the terminal that I had trouble interpreting; for instance there was a persistent message about calling InjectManifest multiple times. I am unsure how this is the case, as it is only listed once but more work with the webpack documentation would likely prove beneficial here. Understanding all the moving parts is still an evolving process and though I see the utility of the supporting techologies used to create the PWA, namely the webpack and service worker, I will need more practice to fully grasp each component.
+This challenge was a useful exercise in understanding React components and how they connect to display pages in the application. I experienced some difficulty displaying the portfolio after introducing the Bootstrap library. There were related issues utilizing CSS for minor tweaks of the text and photos. Overall, I have a better grasp of its interworking parts and plan to improve the appearance and organization of the site over time.
 
-Reformatting code, implementing clear naming convention, and notating often are skills that I work on continously - I hope to make them a natural part of the build process.
 
 Usage
-Please see a link to the deployed application below, for your reference: https://drive.google.com/file/d/1vidrKbck0GYKjHzAcftckSxNs8cFA8IX/view
+Please see a link to the deployed application, for your reference: https://drive.google.com/file/d/1vidrKbck0GYKjHzAcftckSxNs8cFA8IX/view
 
 
 
