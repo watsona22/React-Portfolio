@@ -35,7 +35,7 @@ This challenge was a useful exercise in understanding React components and how t
 
 Usage
 Please see a link to the deployed application, for your reference: https://65d2a9f38f922998bbabbd3c--superlative-kulfi-4495e5.netlify.app/
-
+![Title image](assets/images/titlepage.png)
 
 
 Credits
