@@ -17,7 +17,7 @@ export default function Portfolio() {
             <section className="nav">
                 {/* <section id="about-me"></section> */}
             </section>
-            <main className="tooltip container" id="work">
+            <main className="my-tooltip container" id="work">
                 <section className="code">
                     <section className="card-1">
                         <a href="https://watsona22.github.io/02-Challenge_Amber-Watson/">

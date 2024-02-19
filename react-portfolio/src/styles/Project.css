@@ -288,11 +288,11 @@ section.nav {
     border-color: blue;
 }
 
-.tooltip:hover {
+.my-tooltip:hover {
     cursor: pointer;
 }
 
-main.tooltip work {
+main.my-tooltip work {
     display: flex;
     flex-direction: column;
     height: 100%;
@@ -300,7 +300,7 @@ main.tooltip work {
 
 }
 
-.tooltip.code.card-1.card-1 img.card img {
+.my-tooltip.code.card-1.card-1 img.card img {
     margin-right: auto;
     border-radius: 10px;
     display: flex;
