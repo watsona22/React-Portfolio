@@ -6,7 +6,7 @@ import '../styles/Project.css';
 // import manager from "../assets/images/rate-my-manager.png";
 // import planner from "../assets/images/event-planner.png";
 // import assessment from "../assets/images/assessment.png";
-import Project from '../components/Project';
+import Project from '../components/Project.jsx';
 
 const projectData = [
     {
