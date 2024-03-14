@@ -43,7 +43,7 @@ const projectData = [
         imgLink: "/assets/images/homepage1.png",
         title: "Neighbor Nest: React & GraphQL",
         buttonLink: "https://github.com/watsona22/Neighbor-Nest"
-    }
+    },
 ]
 
 export default function Portfolio() {
