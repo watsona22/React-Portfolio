@@ -6,7 +6,7 @@ import '../styles/Project.css';
 // import manager from "../assets/images/rate-my-manager.png";
 // import planner from "../assets/images/event-planner.png";
 // import assessment from "../assets/images/assessment.png";
-import Project from '../components/Project.jsx';
+import Project from '../components/Project';
 
 const projectData = [
     {
@@ -40,7 +40,7 @@ const projectData = [
     {
         className: "card",
         gitHubLink: "https://neighbor-nest.onrender.com/",
-        imgLink: "/assets/images/homepage1.png",
+        imgLink: "/assets/images/homepage.png",
         title: "Neighbor Nest: React & GraphQL",
         buttonLink: "https://github.com/watsona22/Neighbor-Nest"
     }
