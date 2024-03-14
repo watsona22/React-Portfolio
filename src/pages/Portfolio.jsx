@@ -41,7 +41,7 @@ const projectData = [
     {
         className: "card",
         gitHubLink: "https://neighbor-nest.onrender.com/",
-        imgLink: "/assets/images/homepage.png",
+        imgLink: "/assets/images/assessment.png",
         title: "Neighbor Nest: React & GraphQL",
         buttonLink: "https://github.com/watsona22/Neighbor-Nest"
     }
