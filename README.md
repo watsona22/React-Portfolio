@@ -34,7 +34,8 @@ This challenge was a useful exercise in understanding React components and how t
 
 
 Usage
-Please see a link to the deployed application, for your reference: https://65d2a9f38f922998bbabbd3c--superlative-kulfi-4495e5.netlify.app/
+Please see a link to the deployed application, for your reference: 
+https://main--resilient-haupia-9ef5e0.netlify.app/
 ![Title image](src/assets/images/titlepage.png)
 
 
