@@ -39,10 +39,10 @@ const projectData = [
     },
     {
         className: "card",
-        gitHubLink: "https://github.com/watsona22/Neighbor-Nest",
+        gitHubLink: "https://neighbor-nest.onrender.com/",
         imgLink: "/assets/images/homepage.png",
         title: "Neighbor Nest: React & GraphQL",
-        buttonLink: "https://neighbor-nest.onrender.com/"
+        buttonLink: "https://github.com/watsona22/Neighbor-Nest"
     }
 ]
 
