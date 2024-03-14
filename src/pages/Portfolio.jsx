@@ -39,10 +39,10 @@ const projectData = [
     },
     {
         className: "card",
-        gitHubLink: "https://watsona22.github.io/Web-Dev-Assessment/",
-        imgLink: "/assets/images/assessment.png",
-        title: "Web-Dev-Assessment: Event Handlers & Local Storage",
-        buttonLink: "https://github.com/watsona22/Web-Dev-Assessment"
+        gitHubLink: "https://github.com/watsona22/Neighbor-Nest",
+        imgLink: "/assets/images/homepage.png",
+        title: "Neighbor Nest: React & GraphQL",
+        buttonLink: "https://neighbor-nest.onrender.com/"
     }
 ]
 
