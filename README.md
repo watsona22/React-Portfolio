@@ -38,10 +38,6 @@ Please see a link to the deployed application, for your reference:
 https://main--resilient-haupia-9ef5e0.netlify.app/
 ![Title image](src/assets/images/titlepage.png)
 
-
-Credits
-The project was completed with help from the course materials and tutor, Erik Hirsch.
-
 License
 MIT License Copyright (c) [2023] [Amber Watson]
 
