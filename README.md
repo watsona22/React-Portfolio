@@ -1,5 +1,5 @@
 # react-portfolio
-The purpose of this project was to create a single-page application using React to demonstrate development skills and share my portfolio with customers. The React Portfolio utilizes vite to build the application and the dynamic components of the website are supported by JavaScript.
+This React porfolio is a single-page application used to showcase skills to customers. It utilizes vite to build the application and the dynamic components of the website are supported by JavaScript.
 
 ## Acceptance Criteria
 
